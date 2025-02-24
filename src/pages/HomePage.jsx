@@ -23,7 +23,7 @@ const HomePage = () => {
     <div className='container'>
       <div className='container__pagina'>
       <figure className='pokemon__img'>
-                <img src="../../assets/original.png" alt="pokedex logo" />
+                <img src="../..origi/assets/original.png" alt="pokedex logo" />
             </figure>
           <h2 className='container__title'>¡ Hi trainer !</h2>
           <p className='container__parrafo'>to star, give me your name</p>
