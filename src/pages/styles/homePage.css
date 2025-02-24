@@ -1,0 +1,36 @@
+.container__pagina {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    gap: 20px;
+}
+
+.pokemon__img {
+    margin-top: 50px;
+    max-width: 60%;
+}
+
+.container__title {
+    color: red;    
+    font-size: 2rem;
+}
+
+.container__parrafo {
+    font-size: 1.5rem;
+}
+
+.container__input {
+    padding: 10px;
+    border-style: 1px solid #5555;
+}
+
+.container__btn {
+    padding: 10px 25px;
+    background: rgb(218, 112, 112);
+    border-style:none;
+    color: white;
+    font-size: 1rem;
+}
